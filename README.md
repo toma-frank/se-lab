@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![Java CI with Maven](https://github.com/toma-frank/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/toma-frank/se-lab/actions/workflows/maven.yml)
 
