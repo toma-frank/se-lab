@@ -14,7 +14,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
   
-  static Random generator = new Random();
+  private static Random generator = new Random(); //comment for Istvan's sake
 
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
